@@ -1,0 +1,21 @@
+.login-box {
+    max-width: 400px;
+    margin: 0 auto;
+    margin-top: 100px;
+    padding: 20px;
+    border: 1px solid #ccc;
+}
+
+.social-icons {
+    margin-top: 20px;
+}
+
+.forgot-password {
+    margin-top: 10px;
+    text-align: center;
+}
+
+.register-link {
+    margin-top: 20px;
+    text-align: center;
+}
