@@ -1,4 +1,4 @@
-const {hashedPassword, compareBcrypt} = require('./harsh')
+const {hashedPassword, compareBcrypt} = require('./passwordUtils')
 
 const login = (req,res) => {
     res.render('login',{title: 'Login System'})
